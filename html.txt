@@ -1,0 +1,335 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dorset Car Parts</title>
+  <link rel="stylesheet" href="https://ebayoutsource.co.uk/assets/css/external/teal-race.css">
+  <link rel="stylesheet" href="https://ebayoutsource.co.uk/assets/css/external/slider2.css">
+  <style>
+    :root {
+      --primary-color: #000000 !important;
+    }
+
+    .widget_content ul li a {
+      line-height: 9px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="header-container">
+    <div class="header-top" style="background: #000000;">
+      <div class="grid-container">
+        <p><span style="color: #9d9d9d;font-size: 18px;">Welcome to our Official eBay Store</span></p>
+      </div>
+    </div>
+  </div>
+  <div id="header" class="o-panel o-panel--header" style="background: var(--primary-color);">
+    <div class="grid-container">
+      <div class="grid-x grid-padding-x align-middle align-center c-header">
+        <div class="cell"><a class="c-header__logo" href="#"><img class="logo img-fluid" style="max-height: 150px;"
+              alt="Brand" src="https://i.ibb.co/DWWbG7V/MOJE.png"></a></div>
+      </div>
+    </div>
+  </div>
+  <div class="header-container">
+    <div class="header-content" style="background: #000000;">
+      <div class="grid-container">
+        <div class="header-right"><input type="checkbox" id="nav-trigger" class="nav-trigger"><label for="nav-trigger"
+            class="hidden-nav">MENU</label>
+          <div class="menu-header menu-header-mobile">
+            <div class="grid-container">
+              <div class="menu-container">
+                <ul class="menu">
+                  <li><a href="https://www.ebay.co.uk/str/dorsetparts#tab1" target="_blank">About us</a></li>
+                  <li><a href="https://www.ebay.co.uk/str/dorsetparts" target="_blank">Products</a></li>
+                  <li><a href="https://www.ebay.co.uk/cnt/intermediatedFAQ?requested=dorsetparts"
+                      target="_blank">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="menu-header">
+        <div class="grid-container">
+          <div class="menu-container">
+            <ul class="menu">
+              <li><a href="https://www.ebay.co.uk/str/dorsetparts" target="_blank">Our Products</a></li>
+              <li><a href="https://www.ebay.co.uk/str/dorsetparts" target="_blank">Like Our Page</a></li>
+              <li><a href="https://www.ebay.co.uk/str/dorsetparts#tab2" target="_blank">Check Our Feedback</a></li>
+              <li><a href="https://www.ebay.co.uk/cnt/intermediatedFAQ?requested=dorsetparts" target="_blank">Contact
+                  Us</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="promo hidden-sm hidden-xs">
+    <div class="grid-container">
+      <div class="promo-content"><span class="box-promotion"><i class="fa fa-star" aria-hidden="true"></i><span>UK
+            Seller</span></span><span class="box-promotion"><i class="fa fa-truck" aria-hidden="true"></i><span>Fast
+            Shipping</span></span><span class="box-promotion"><i class="fa fa-thumbs-up"
+            aria-hidden="true"></i><span>Greater Service</span></span><span class="box-promotion"><i class="fa fa-heart"
+            aria-hidden="true"></i><span>Satisfaction Guaranteed</span></span></div>
+    </div>
+  </div>
+  <div class="content">
+    <div class="grid-container">
+      <div class="grid-x grid-padding-x inner-row">
+        <div class="cell small-order-1= medium-shrink hidden-xs hidden-sm left-content">
+          <div class="hidden-xs hidden-sm">
+            <div class="widget_box">
+              <div class="list-group">
+                <!--  -->
+                <h2>Car Brands</h2>
+                <div class="widget_content">
+                  <ul>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/ALFA-ROMEO/_i.html?store_cat=34910772011"
+                        target="_blank">ALFA ROMEO</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/AUDI/_i.html?store_cat=34910773011"
+                        target="_blank">AUDI</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/BMW/_i.html?store_cat=34910774011"
+                        target="_blank">BMW</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/CHEVROLET/_i.html?store_cat=34910775011"
+                        target="_blank">CHEVROLET</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/CHRYSLER/_i.html?store_cat=34910776011"
+                        target="_blank">CHRYSLER</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/CITROEN/_i.html?store_cat=34910777011"
+                        target="_blank">CITROEN</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/DACIA/_i.html?store_cat=34910778011"
+                        target="_blank">DACIA</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/DAEWOO/_i.html?store_cat=34910779011"
+                        target="_blank">DAEWOO</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/FIAT/_i.html?store_cat=34910780011"
+                        target="_blank">FIAT</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/FORD/_i.html?store_cat=34910781011"
+                        target="_blank">FORD</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/HONDA/_i.html?store_cat=34910782011"
+                        target="_blank">HONDA</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/HYUNDAI/_i.html?store_cat=34910783011"
+                        target="_blank">HYUNDAI</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/IVECO/_i.html?store_cat=34910784011"
+                        target="_blank">IVECO</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/KIA/_i.html?store_cat=34910786011"
+                        target="_blank">KIA</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/LANCIA/_i.html?store_cat=34910804011"
+                        target="_blank">LANCIA</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/LAND-ROVER/_i.html?store_cat=39066678011"
+                        target="_blank">LAND ROVER</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/LEXUS/_i.html?store_cat=34910787011"
+                        target="_blank">LEXUS</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/MAZDA/_i.html?store_cat=34910788011"
+                        target="_blank">MAZDA</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/MERCEDES/_i.html?store_cat=34910789011"
+                        target="_blank">MERCEDES</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/MINI/_i.html?store_cat=34910790011"
+                        target="_blank">MINI</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/MITSUBISHI/_i.html?store_cat=34910791011"
+                        target="_blank">MITSUBISHI</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/NISSAN/_i.html?store_cat=34910792011"
+                        target="_blank">NISSAN</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/PEUGEOT/_i.html?store_cat=34910793011"
+                        target="_blank">PEUGEOT</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/RENAULT/_i.html?store_cat=34910794011"
+                        target="_blank">RENAULT</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/SAAB/_i.html?store_cat=34910795011"
+                        target="_blank">SAAB</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/SEAT/_i.html?store_cat=34910796011"
+                        target="_blank">SEAT</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/SKODA/_i.html?store_cat=34910797011"
+                        target="_blank">SKODA</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/SMART/_i.html?store_cat=39460450011"
+                        target="_blank">SMART</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/SUBARU/_i.html?store_cat=34910798011"
+                        target="_blank">SUBARU</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/SUZUKI/_i.html?store_cat=34910799011"
+                        target="_blank">SUZUKI</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/TOYOTA/_i.html?store_cat=34910800011"
+                        target="_blank">TOYOTA</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/VAUXHALL/_i.html?store_cat=34910801011"
+                        target="_blank">VAUXHALL</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/VOLKSWAGEN/_i.html?store_cat=34910802011"
+                        target="_blank">VOLKSWAGEN</a></li>
+                    <li><a href="https://www.ebay.co.uk/str/dorsetparts/VOLVO/_i.html?store_cat=34910803011"
+                        target="_blank">VOLVO</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="cell medium-auto right-content">
+          <h1 class="title-heading" style="text-align: center;"> FOR MERCEDES SL-CLASS R129 1989-2001 PAIR OF CLEAR
+            FRONT INDICATOR LIGHT LAMP</h1>
+          <!-- GALERIA -->
+          <!-- Zeby usunac fotke, musisz usunac cala sekcje Foto od <input> do </div> -->
+          <div class="panel panel-default">
+            <div class="image-gallery">
+              <div class="slider">
+                <!-- Foto 1 -->
+                <input type="radio" name="slide_switch" id="id_0" checked>
+                <label for="id_0">
+                  <img src="https://i.ebayimg.com/images/g/5rgAAOSwlEZi4USQ/s-l500.jpg" width="100">
+                </label>
+                <div>
+                  <img src="https://i.ebayimg.com/images/g/5rgAAOSwlEZi4USQ/s-l500.jpg">
+                </div>
+                <!-- Foto 2 -->
+                <input type="radio" name="slide_switch" id="id_1">
+                <label for="id_1">
+                  <img src="https://i.ebayimg.com/images/g/tU8AAOSwp5di4USR/s-l500.jpg" width="100">
+                </label>
+                <div>
+                  <img src="https://i.ebayimg.com/images/g/tU8AAOSwp5di4USR/s-l500.jpg">
+                </div>
+                <!-- Foto 3 -->
+                <input type="radio" name="slide_switch" id="id_2">
+                <label for="id_2">
+                  <img src="https://i.ebayimg.com/images/g/5rgAAOSwlEZi4USQ/s-l500.jpg" width="100">
+                </label>
+                <div>
+                  <img src="https://i.ebayimg.com/images/g/5rgAAOSwlEZi4USQ/s-l500.jpg">
+                </div>
+                <!-- Foto 4 -->
+                <input type="radio" name="slide_switch" id="id_3">
+                <label for="id_3">
+                  <img src="https://i.ebayimg.com/images/g/tU8AAOSwp5di4USR/s-l500.jpg" width="100">
+                </label>
+                <div>
+                  <img src="https://i.ebayimg.com/images/g/tU8AAOSwp5di4USR/s-l500.jpg">
+                </div>
+                <!-- Foto 5 -->
+                <input type="radio" name="slide_switch" id="id_4">
+                <label for="id_4">
+                  <img src="https://i.ebayimg.com/images/g/5rgAAOSwlEZi4USQ/s-l500.jpg" width="100">
+                </label>
+                <div>
+                  <img src="https://i.ebayimg.com/images/g/5rgAAOSwlEZi4USQ/s-l500.jpg">
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- KONIEC GALERII -->
+          <div class="panel panel-default desc-box">
+            <div class="panel-heading">DESCRIPTION</div>
+            <div class="text-section">
+              <div class="panel-body" vocab="https://schema.org/" typeof="Product">
+                <span property="description">
+                  <p>
+                    <b>FRONT INDICATORS SET - CLEAR</b>
+                  </p>
+                  <p>
+                    <b>FIT:</b>
+                    <span style="font-size: 0.9rem;">MERCEDER SL-CLASS (R129) 1989 - 2001</span>
+                  </p>
+                  <p>
+                    <br>
+                  </p>
+                  <p>
+                    <b>PRODUCT SPECIFICATION:</b>
+                  </p>
+                  <p>
+                    <b>QUANTITY</b>: 1 PAIR
+                  </p>
+                  <p>
+                    <b>BULB TRAYS:</b> INCLUDED
+                  </p>
+                  <p>
+                    <b>FITTING POSITION:</b> LEFT RIGHT
+                  </p>
+                  <p>
+                    <b>COLOR:</b> CLEAR
+                  </p>
+                  <p>
+                    <b>QUALITY:</b> TYC REPLACEMENT
+                  </p>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="tabarea">
+            <div class="tab-content">
+              <input id="tab1" type="radio" name="tabs" checked="">
+              <label for="tab1">
+                <span>Returns</span>
+              </label>
+              <section id="content1">
+                <p>Accepted for 30 calendar days after the estimated or actual delivery date or within the seller"s
+                  stated returns window. Buyer pays return postage.</p>
+                <p>Take a look at our Returning an item help page for more details. You are covered by the eBay Money
+                  Back Guarantee if you receive an item that is not as described in the listing. <span
+                    style="font-size: 0.9rem;">The buyer is responsible for return postage costs.</span>
+                </p>
+              </section>
+              <input id="tab2" type="radio" name="tabs">
+              <label for="tab2">
+                <span>Delivery</span>
+              </label>
+              <section id="content2">
+                <p>We are a UK seller and will ship your item to you as fast possible. Will usually dispatch within 1
+                  working day of receiving cleared payment. <br>
+                </p>
+              </section>
+              <input id="tab3" type="radio" name="tabs">
+              <label for="tab3">
+                <span>Payment</span>
+              </label>
+              <section id="content3"> You can make your payment through eBay Payment gateway. </section>
+              <input id="tab4" type="radio" name="tabs">
+              <label for="tab4">
+                <span>About Us</span>
+              </label>
+              <section id="content4">
+                <p>Dorset Parts was founded in 2014, which specializes in auto parts for many years. We are a
+                  professional trading company dealing with car accessories for all sort of cars. With year"s
+                  development ,we always focus on the auto parts and providing you professional service and products
+                  with best quality. As a result, we have gained a global sales network reaching worldwide customers.
+                  <br>
+                </p>
+              </section>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="grid-container">
+      <div class="grid-x grid-padding-x">
+        <div class="cell small-24 medium-5 contact-us">
+          <div class="head">About Us</div>
+          <p>Dorset Parts was founded in 2014, which specializes in auto parts for many years. We are a professional
+            trading company dealing with car accessories for all sort of cars. With year"s development ,we always focus
+            on the auto parts and providing you professional service and products with best quality. As a result, we
+            have gained a global sales network reaching worldwide customers. <br>
+          </p>
+        </div>
+        <div class="cell small-24 medium-5 footer-signup">
+          <div class="head">Newsletter</div>
+          <p>Sign up to our newsletter for special deals</p>
+          <a href="" target="_blank" title="SUBMIT">SUBMIT</a>
+        </div>
+        <div class="cell small-24 medium-2 hidden-xs footer-promo">
+          <div class="head">We Accept Only</div>
+          <p>
+            <img src="https://ebayoutsource.co.uk/assets/images/brands/paypal_logo.png">
+            <img src="https://ebayoutsource.co.uk/assets/images/brands/visa_logo_small.png">
+            <img src="https://ebayoutsource.co.uk/assets/images/brands/master_card_logo_small.png">
+            <img src="https://ebayoutsource.co.uk/assets/images/brands/discover_logo_small.png">
+            <img src="https://ebayoutsource.co.uk/assets/images/brands/american_express_logo_small.png">
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
+</body>
+
+</html>
